@@ -54,6 +54,26 @@ body{
 	top:1px;
 }
 
-.fa-solid{
-    padding-right: 10px;
+#img{
+    border-radius: 50px;
+    padding: 10px;
+    margin-bottom: 20px;
+
+}
+
+#name{
+    text-transform: uppercase;
+    padding: 2px;
+    letter-spacing: 2px;
+    background-color: rgb(203, 30, 56);
+    width: 136px;
+    border-radius: 6px;
+    color: white;
+
+}
+
+#logo{
+    position: relative;
+    height: 80px;
+
 }
